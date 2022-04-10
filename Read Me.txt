@@ -1,0 +1,16 @@
+====================================================================================================================
+Statistical and Machine Learning Approaches for Marketing: Group Project 
+Fernando Delgado, Nour Azar, Sofie Ghysels
+====================================================================================================================
+
+Group Project		# Main folder of the project
+|
++-- data			# Raw and final basetables. Kaggle Submissions
+|
++-- docs			# Project Presentation.
+|
++-- src			# Source code (Python)
+
+
+
+
